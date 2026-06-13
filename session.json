@@ -1,0 +1,112 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "3DEN_gc0imomJUfgo.wBiPmug7SdVz9Ds1SAI5a0ziM-1781335560.038706-1.0.1.1-9CfUJjqsU.GFMKUDOH.hxBb4WdtkcHGYqH0gEN6_TxpOO2dpWx71TzjtpRX76UG_gBZbkfJMft7YZTnRiI6T73uS2d1uFOf5P7dm.k2ZHXv8JEsP3L58XHiKVfQbp7Pt",
+      "domain": ".onesignal.com",
+      "path": "/",
+      "expires": 1781337360.153163,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "x.9cvfjaH_isYbPT5N_bsHvHm__AsFJAVUIAzs.OX1M-1781335560.4591117-1.0.1.1-gr1uh_qea1rmqO76Q_R_vQopNWcXomCzphaxDehp4SOmS387jkzoQqVKvsdQ6jL1Oo7fV2jSOnZ5YKmSHnREV_VhLtq6poIKfttuNo2H4CBcGiGFgnK.XYPxH_Y9pJFH",
+      "domain": ".privy.io",
+      "path": "/",
+      "expires": 1781337360.915867,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "FSeqTwGUCSrMpt4s6eNXi2SrqZWtIQT6Tjr5R4y7ni8-1781335560.4591117-1.0.1.1-Sp4xJ4eFKkGec4f7VEXhO4uZPobR9CAPDXZXoNHoFok",
+      "domain": ".privy.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest-session",
+      "value": "MTc4MTMzNTU2MXxEWDhFQVFMX2dBQUJFQUVRQUFCb180QUFBZ1p6ZEhKcGJtY01Bd0FCWndaemRISnBibWNNSmdBa01EUmhOREl6T0dJdFlqZGpOeTAwT1RreUxUbGlOMkl0TVRKaFptSXlaakpsTXpReEJuTjBjbWx1Wnd3R0FBUnVZVzFsQm5OMGNtbHVad3dSQUE5SmJtWnZjbTFsWkNCVWRYSjBiR1U9fIx0rzEXb7w-D-T1zKW8LcNX_S34gG7O_JLwcK0UW2i8",
+      "domain": "dmeet.org",
+      "path": "/",
+      "expires": 1783927561.627552,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "BOus56NpQKbb7gzd9RO0ze2qg4daEUM1QD6t3trsaFg-1781335561.555926-1.0.1.1-0PMWtnP8aV3xoYsnQI.4GCOmkzGV6s3oRTDcu8u9mVgFblydmL7inLPcwOjClqTPDEB2wBX9Ga5TciNnhRffrGKtV.aq1YSNx5aHt0hfBZmpqyrlQgievegIyqIA15do",
+      "domain": ".privy.dmeet.org",
+      "path": "/",
+      "expires": 1781337361.964414,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "0QUqC41F6tfhUs3PYJUME1cCewlpCxYpcikYTGcMKVo-1781335561.555926-1.0.1.1-Ew2eAtxChpDbvHdaoG3WGeS4Ds0MqLPU7.Mu5sz_pFw",
+      "domain": ".privy.dmeet.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://dmeet.org",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "en"
+        },
+        {
+          "name": "loglevel:livekit",
+          "value": "ERROR"
+        },
+        {
+          "name": "loglevel:lk-e2ee",
+          "value": "ERROR"
+        },
+        {
+          "name": "os_pageViews",
+          "value": "1"
+        },
+        {
+          "name": "userConsent",
+          "value": "false"
+        },
+        {
+          "name": "privy:caid",
+          "value": "\"398d6eeb-cf85-45c9-ad2d-c59423202f9f\""
+        },
+        {
+          "name": "loglevel",
+          "value": "error"
+        },
+        {
+          "name": "privy:sent:cm9ii7j8x0114lc0mdm4rggk6:3868824443965701",
+          "value": "t"
+        }
+      ]
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localStorage": [
+        {
+          "name": "cf.turnstile.u",
+          "value": "0YIL9UoFYD2For0cjvvmKcfYuTFwFdNtrzLtCjZ19cU-1781335562-1.3.1.1-pdYRBz3LODnuErEu0eJWYu2lj2AGvCWBcYYkx4PbkvuVMEAj5OMMEK5l4t24fK7E8WkfURWQYEzKL2JdpOruig"
+        }
+      ]
+    }
+  ]
+}
